@@ -1,4 +1,4 @@
 DailyProgrammer
 ===============
 
-Challenges completed from r/DailyProgrammer
+Projects completed from r/DailyProgrammer
